@@ -4,3 +4,5 @@ The columns GOLD-1, GOLD-2 and GOLD-3 correspond to the ground truth made by the
 
 ## Output of Sentence Ranking models (MASR-3 plus Baselines)
 The remaining columns contain. The remaining columns contain the output of the proposed model "MASR-3" and also the output of the baseline models - LEAD, MASR, CONS, CTR, POL, and CONS-POL.
+
+The file "SentenceRankingGroundTruthPlusModelOutputs.csv" is referred in the codes as "GoldDataAllAspects_Annotate_Partial_17thSept.csv"
