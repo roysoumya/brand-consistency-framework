@@ -12,9 +12,7 @@ This codebase contains all the codes and data files corresponding to the "Senten
 
 2. Human-annotated brand personality data and MT-high is not made available due to permission issues. This work is a part of a collaboration with Big Data Experience Lab, Adobe Research, Bangalore, India.
 
-3. The human annotated data for the "Sentence Ranking Tool" is made available in this codebase
-
-### Requirements
-
+3. The human annotated data for the "Sentence Ranking Tool" is made available under the directory "data"
 
 ### Folder Structure and description
+This codebase contain all the resource files related to the "Sentence Ranking Tool" section of the paper undert the "src" directory. Each subdirectory contains the descriptions of the files and its functionalities. We use both Python and R codes, we also provide the associated data files, that is required by the coding files.
