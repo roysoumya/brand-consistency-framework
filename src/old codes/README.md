@@ -1,5 +1,5 @@
 ## Sentence Ranking Model codes
-Last updated in September, 2019
+Last updated on December 2019
 
 ### Directory structure
 1. Contain codes to compute the different sentence-wise aspects
