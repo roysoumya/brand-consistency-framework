@@ -1,7 +1,7 @@
-## Current revision codes
-Here, we add the codes related to the new experiments related to the "Sentence Ranking Tool" (Section 6). The changes made are as follows : 
+## Current revision codes for the first major submission made in July 2020
+Here, we add the codes related to the new experiments related to the "Sentence Ranking Tool" (Section 6) for submitting the first revision. The changes made are as follows : 
 1. We added more elaborately explained the  ground truth creation process and task definition of the helper tool. 
-2. We have added more evaluation metrics like \textit{Precision@1,2 and 3}. 
+2. We have added more evaluation metrics like \textit{Precision@1, 2 and 3}. 
 3. We also add the statistical significance tests of paired t-test done.
 
 ### Adding evaluation metrics
