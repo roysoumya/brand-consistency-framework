@@ -1,6 +1,8 @@
 ## Paper Description
 This contains the codebases for the paper **An Integrated Approach for Improving Brand
-Consistency of Web Content: Modeling, Analysis and Recommendation** that is currently under review at the [ACM Transactions on the Web](https://dl.acm.org/journal/tweb).
+Consistency of Web Content: Modeling, Analysis and Recommendation** that is accepted at the [ACM Transactions on the Web](https://dl.acm.org/journal/tweb).
+
+[DOI](https://dl.acm.org/doi/abs/10.1145/3450445), [arXiv](https://arxiv.org/pdf/2011.09754)
 
 **Authors** :  Soumyadeep Roy, Shamik Sural, Niyati Chhaya, Anandhavelu Natarajan, Niloy Ganguly
 
